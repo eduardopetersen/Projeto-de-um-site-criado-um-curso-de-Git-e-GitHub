@@ -1,2 +1,2 @@
-# Projeto de um site criado num curso de Git e GitHub
+# Projeto de um site criado durante o curso de Git e GitHub
  
